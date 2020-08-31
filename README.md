@@ -1,1 +1,1 @@
-### LSTM-Guide
+### Embeddings Guide
