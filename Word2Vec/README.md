@@ -11,3 +11,4 @@
 
 * Pipeline: https://medium.com/@diegoglozano/building-a-pipeline-for-nlp-b569d51db2d1
 
+* SVD: https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491
